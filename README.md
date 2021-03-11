@@ -17,8 +17,8 @@ To drop the bomb, just release the spacebar.
 Controls:
 
 SPACEBAR : caprture and drop the bomb
-UP ARROW KEY: increase the plane's altitude
-DOWN AROROW KEY:  decrease the plane's altitude
+UP ARROW KEY: increase the altitude of the plane
+DOWN AROROW KEY:  decrease the altitude of the plane
 
 You can play online here:
 https://javatari.org/?rom=https://github.com/rodrivas78/Re-Bomber/raw/main/ROM/RE_BOMBER_0_1_7.a26
