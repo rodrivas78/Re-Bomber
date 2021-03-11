@@ -1,8 +1,8 @@
 
-Re-Bomber  
+**Re-Bomber**  
 a game for Atari 2600 by Rodrigo Gonzales
 
-This is a project that is still under development, but in the current version it is already possible to test the controls and mechanics and thus have a good idea of what this game will be.
+This game is still under development, but in the current version it is already possible to test the controls and mechanics and thus have an idea of what this game will be.
 
 Soon new challenges and levels will be added.
 
@@ -10,15 +10,15 @@ Soon new challenges and levels will be added.
 Your mission: 
 
  You must redirect bombs that are falling from the sky onto the enemy (tanks and other war machines that are on the ground).
- To do this, you must fly over the bombs and press (and hold) the SPACEBAR to capture them.
+ To do this, you must fly over the bombs and press and hold the Joystick button (or SPACEBAR) to capture them.
  
-To drop the bomb, just release the spacebar.
+To drop the bomb, just release the button (or spacebar).
 
 Controls:
 
-SPACEBAR : caprture and drop the bomb
-UP ARROW KEY: increase the altitude of the plane
-DOWN AROROW KEY:  decrease the altitude of the plane
+JOYSTICK BUTTON (or SPACEBAR): capture and drop the bomb
+UP: the plane go up
+DOWN:  the plane go down
 
 You can play online here:
 
