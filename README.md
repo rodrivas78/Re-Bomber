@@ -2,7 +2,9 @@
 **Re-Bomber**  
 a game for Atari 2600 by Rodrigo Gonzales
 
-This game is still under development, but in the current version it is already possible to test the controls and mechanics and thus have an idea of what this game will be.
+<img src="https://raw.githubusercontent.com/rodrivas78/Re-Bomber/main/screenshots/Screen_2_v1.png" alt="header image" style="max-width:100%;">
+
+This project is still under development, but in the current version it is already possible to test the controls and mechanics and thus have an idea of what this game will be.
 
 Soon new challenges and levels will be added.
 
