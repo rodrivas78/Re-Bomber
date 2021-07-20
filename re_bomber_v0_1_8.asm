@@ -1,5 +1,9 @@
-; move a happy face with the joystick by Kirk Israel
-; (with a can't'dodge'em line sweeping across the screen)
+;/////////////////////////////////////////////////////////////////
+;//   Atari 2600 development study
+;//   by Rodrigo Gonzales (rodrivas78)
+;//   Game: Re-Bomber
+;//   Vs.: 0.1.8
+;/////////////////////////////////////////////////////////////////
 
 	processor 6502
         include "vcs.h"
