@@ -26,7 +26,7 @@ DOWN:  the plane go down
 
 You can play online here:
 
-https://javatari.org/?rom=https://github.com/rodrivas78/Re-Bomber/raw/main/ROM/RE_BOMBER_0_1_7.a26
+https://javatari.org/?rom=https://github.com/rodrivas78/Re-Bomber/raw/main/ROM/Re_Bomber.a26
 
 
 
